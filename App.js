@@ -1,5 +1,4 @@
 
-
     let hour = document.getElementById("hour");
     let minute = document.getElementById("minute");
     let second = document.getElementById("second");
@@ -28,7 +27,3 @@ setInterval(function() {
     colon.classList.toggle("hidden");
     
 }, 1000);
-
-
-
-
